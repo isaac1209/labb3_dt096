@@ -1,0 +1,5 @@
+# ninja log v5
+2	281	7315460862902550	build.ninja	700c947586799f94
+4	161	7315457071441109	CMakeFiles/labb3_dt096.dir/main.cpp.obj	a3bc9bd3f16bbc61
+561	747	7315457775896209	labb3_dt096.exe	acd90116a8b082dc
+4	559	7315457774094785	CMakeFiles/labb3_dt096.dir/testing.cpp.obj	dbad3a5fb8fa48fc
